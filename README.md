@@ -3,7 +3,7 @@
 Mini project submitted as part of M.Tech course in semester 2.
  
 ## Setup
-This project is based on Python 3 and requires an NVIDIA-GPU with CUDA 9.0 to run PyTorch with GPU computing capabilities.
+This project is based on Python 3 and requires NVIDIA-GPU with CUDA 9.0 to run PyTorch with GPU computing capabilities.
 
 ## Dataset
 Tree bank dataset was used for the experiments.
