@@ -6,7 +6,7 @@ Mini project submitted as part of M.Tech course in semester 2.
 This project is based on Python 3 and requires NVIDIA-GPU with CUDA 9.0 to run PyTorch with GPU computing capabilities.
 
 ## Dataset
-Tree bank dataset was used for the experiments.
+Penn Tree bank and Brown datasets were used for the experiments.
 
 ## Details
 ```documents``` folder contains the base research paper(which was referred for the project) and the project report.
